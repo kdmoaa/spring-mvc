@@ -6,5 +6,9 @@
 	</head>
 	<body>
 		Hello Spring!
+
+		<form method="get" action="/view">
+			<input type="submit" value="送信">
+		</form>
 	</body>
 </html>
